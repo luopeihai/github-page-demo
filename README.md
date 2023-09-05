@@ -1,2 +1,5 @@
 # github-page-demo
-Hosted directly from dome GitHub repository 
+
+Hosted directly from dome GitHub repository
+
+## 简单 index.html
