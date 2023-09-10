@@ -9,7 +9,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename={"/github-page-demo"}>
       <Switch>
         <Route path="/detail" component={Detail} />
         <Route path="/" component={Home} />
